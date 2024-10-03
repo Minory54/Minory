@@ -4,7 +4,7 @@
 
 ### About me:
   - 🌱 Beginner designer and front-end developer
-  - 🎓 1st year student of SibSUTIS
+  - 🎓 2nd year student of SibSUTIS
   - 🎮 Like to play computer [games](https://steamcommunity.com/id/Minory54/)
 
 ### Languages and Tools:
